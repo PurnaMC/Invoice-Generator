@@ -1,2 +1,1 @@
-# invoice-generator
-invoice generator using python
+# (What is this project?)
